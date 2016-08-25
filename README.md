@@ -6,8 +6,8 @@ Examples and pointers from my lightning talk at promcon.io 2016
   * Video: *TBD*
 
 
-Charms
-------
+Juju Charms
+-----------
   * prometheus: https://launchpad.net/prometheus-charm
   * telegraf: https://launchpad.net/telegraf-charm
   * pushgateway: https://launchpad.net/prometheus-pushgateway-charm
