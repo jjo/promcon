@@ -1,7 +1,9 @@
-Examples and pointers from my lightning talk at promcon.io 2016
-
 Prometheus stack for juju deployments
 =====================================
+Examples and pointers from my lightning talk at promcon.io 2016
+
+  * Slides: https://goo.gl/vHB8tS
+  * Video: *TBD*
 
 
 Charms
